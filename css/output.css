@@ -1131,16 +1131,12 @@ video {
     margin-inline-end: 3.5rem;
   }
 
-  .md\:ms-12 {
-    margin-inline-start: 3rem;
+  .md\:ms-10 {
+    margin-inline-start: 2.5rem;
   }
 
   .md\:mt-0 {
     margin-top: 0px;
-  }
-
-  .md\:ms-10 {
-    margin-inline-start: 2.5rem;
   }
 
   .md\:inline-block {
@@ -1252,6 +1248,10 @@ video {
 
   .lg\:w-\[70\%\] {
     width: 70%;
+  }
+
+  .lg\:w-\[30\%\] {
+    width: 30%;
   }
 
   .lg\:flex-wrap {
